@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531268233249",
+    "project_id": "homeworktracker-6f7ca",
+    "storage_bucket": "homeworktracker-6f7ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531268233249:android:1ce27d250e437ba2645b60",
+        "android_client_info": {
+          "package_name": "com.example.homework_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531268233249-99tepeh959aaivcs1ljr5tgahm94tg1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl_lRoIj9YMOXuDY3RbwSJpeZ56lsZRmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531268233249-99tepeh959aaivcs1ljr5tgahm94tg1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
